@@ -1,5 +1,5 @@
 require 'sinatra'
 
 post '/slack/command' do
-  "OK"
+  "Ok, this is a test message for a bot. Sorry to bother you ! :)"
 end
