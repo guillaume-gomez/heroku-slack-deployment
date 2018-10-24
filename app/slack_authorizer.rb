@@ -16,4 +16,5 @@ class SlackAuthorizer
       UNAUTHORIZED_RESPONSE
     end
   end
+
 end
